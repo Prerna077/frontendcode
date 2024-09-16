@@ -1,0 +1,31 @@
+.footer {
+    background-color: #413f3f; /* Change the background color as needed */
+    color: #fff; /* Change the text color as needed */
+    padding: 40px 20px; /* Adjust padding as needed */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer-item {
+    flex: 1 1 200px; /* Adjust the width of footer items */
+    margin: 0 10px; /* Adjust margin between items */
+}
+
+.footer-logo {
+    width: 50px; /* Adjust the width of the logo as needed */
+}
+
+.footer-heading {
+    font-size: 18px; /* Adjust heading font size as needed */
+    margin-bottom: 10px; /* Adjust margin bottom as needed */
+}
+
+.footer-list {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-list-item {
+    margin-bottom: 5px; /* Adjust margin bottom as needed */
+}
